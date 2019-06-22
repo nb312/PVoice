@@ -1,2 +1,2 @@
 # PVoice
-这是图音
+This is picture voice APP. 
